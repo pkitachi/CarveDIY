@@ -1,0 +1,22 @@
+.brand-title{
+    font-family: 'Berkshire Swash';
+    background-image: image('/crafts/static/stroke.png');
+}
+#btn-blue{
+    background-color: #283655;
+    font-size: 12px;
+    color: white;
+}
+#btn-blue:hover{
+    background-color: #364461;
+    cursor: pointer;
+}
+#btn-pink{
+    background-color: #FF8B94;
+    font-size: 12px;
+    color: #283655;
+}
+#btn-pink:hover{
+    background-color: rgb(255, 106, 118);
+    cursor: pointer;
+}
